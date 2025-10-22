@@ -38,6 +38,8 @@ namespace VulnerableConsoleApp
                 }
             }
 
+            
+
             Console.WriteLine("Enter a filename to list directory contents:");
             string fileInput = Console.ReadLine();
             // Command Injection vulnerability
